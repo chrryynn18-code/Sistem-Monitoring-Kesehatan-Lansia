@@ -1,0 +1,6 @@
+50425223;cherryn;18;jl suka suka;120;03-07-2026;-;Normal
+P001;Budi Santoso;65;Jl. Merdeka No.12;110;12-07-2026;metformin;Normal
+P002;Siti Aminah;78;Jl. Mawar NO.5;145;15-07-2026;Amlodipine;Pre-Hipertensi
+P003;Ahmad Subarjo;64;Jl. Melati NO.97;95;10-07-2026;Captopril;Hipertensi
+P004;Sri Wahyuni;73;Jl. Kenangan Blok T;130;18-07-2026;Lisinopril;Normal
+P005;Joko Adi;68;Jl. Anggrek NO.8;160;14-07-2026;Glimepiride;Pre-Hipertensi
